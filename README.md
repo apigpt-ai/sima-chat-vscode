@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://sima.chat/ai-logo.png" height="64"><br>司码.ChatGPT编程助手 / Sima.ChatGPT Programming Assistant</h3>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt" alt="Marketplace version">
+    <a href="https://marketplace.visualstudio.com/items?itemName=SimaChat.sima-chat-vscode&ssr=false#overview" alt="Marketplace version">
         <img src="https://img.shields.io/visual-studio-marketplace/v/SimaChat.sima-chat-vscode?color=orange&label=VS%20Code" />
     </a>
 </p>
