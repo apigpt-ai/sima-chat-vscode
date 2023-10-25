@@ -10,11 +10,11 @@
 
 司码.ChatGPT 编程助手是一个专门为编程开发者而开发的 AI 编程助手，它可以为您的开发工作或编程学习提供强大的支持，带给您极致的便利和效率。
 
-## 如何使用
+## 如何使用 - 概述
 
 <table>
-    <tr><td><h3>1 - 在Vscode里搜索并安装</h3><img src="https://sima.chat/guide/03-install.png" /></td><td rowspan="2"><h3>2 - 可以和司码.ChatGPT对话获得帮助</h3><img src="https://sima.chat/guide/01-chat.png" /></td></tr>
-    <tr><td><h3>3 - 右键菜单有更多辅助功能</h3><img src="https://sima.chat/guide/02-findbug.png" /></td></tr>
+    <tr><td><h4>1 - 在Vscode里搜索并安装</h4><img src="https://sima.chat/guide/03-install.png" /></td><td rowspan="2"><h4>2 - 和司码.ChatGPT对话</h4><img src="https://sima.chat/guide/01-chat.png" /></td></tr>
+    <tr><td><h4>3 - 右键菜单有更多辅助功能</h4><img src="https://sima.chat/guide/02-findbug.png" /></td></tr>
 
 </table>
 
