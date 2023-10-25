@@ -10,6 +10,14 @@
 
 司码.ChatGPT 编程助手是一个专门为编程开发者而开发的 AI 编程助手，它可以为您的开发工作或编程学习提供强大的支持，带给您极致的便利和效率。
 
+## 如何使用
+
+<table>
+    <tr><td><img src="https://sima.chat/guide/03-install.png" /></td><td rowspan="2"><img src="https://sima.chat/guide/01-chat.png" /></td></tr>
+    <tr><td><img src="https://sima.chat/guide/02-findbug.png" /></td></tr>
+
+</table>
+
 ## 为什么有了这款插件
 
 作为一位技术创业者，日常最多的工作就是参与编程，我试用了很多编程助手，然而，反复搜索和尝试之后，我一直没能找到一款完美的编程助手，于是我就决定亲自开发一款能满足我需求的AI编程助手插件。
