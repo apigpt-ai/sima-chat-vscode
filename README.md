@@ -48,3 +48,6 @@
 > 也可以 ➕ 我微信来参与到司码.ChatGPT 用户社区
 
 <h4 align="center"><img src="https://sima.chat/contact.png" height="128"></h4>
+
+## 致谢
+部分代码参考了 https://github.com/gencay/vscode-chatgpt 特别致谢
