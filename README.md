@@ -1,5 +1,11 @@
 <h3 align="center"><img src="https://sima.chat/ai-logo.png" height="64"><br>司码.ChatGPT编程助手 / Sima.ChatGPT Programming Assistant</h3>
 
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt" alt="Marketplace version">
+        <img src="https://img.shields.io/visual-studio-marketplace/v/SimaChat.sima-chat-vscode?color=orange&label=VS%20Code" />
+    </a>
+</p>
+
 ## 专门为中文开发者服务的 ChatGPT Vscode 编程助手
 
 司码.ChatGPT 编程助手是一个专门为编程开发者而开发的 AI 编程助手，它可以为您的开发工作或编程学习提供强大的支持，带给您极致的便利和效率。
